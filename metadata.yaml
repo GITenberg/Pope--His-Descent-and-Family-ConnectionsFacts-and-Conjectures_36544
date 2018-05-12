@@ -1,0 +1,29 @@
+_repo: Pope--His-Descent-and-Family-ConnectionsFacts-and-Conjectures_36544
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hunter, Joseph
+    birthdate: 1783
+    deathdate: 1861
+    gutenberg_agent_id: '38340'
+    url: http://www.gutenberg.org/2009/agents/38340
+description: I. The Popes -- II. The Turners.
+gutenberg_issued: '2011-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36544'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pope family'
+- !lcc 'PR'
+- !lcsh 'Pope, Alexander, 1688-1744 -- Family'
+- !lcsh 'Poets, English -- 18th century -- Family relationships'
+- !lcsh 'Turner family'
+title: 'Pope, His Descent and Family Connections: Facts and Conjectures'
+url: http://www.gutenberg.org/ebooks/36544
