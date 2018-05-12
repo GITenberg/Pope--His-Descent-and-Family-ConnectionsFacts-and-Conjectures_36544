@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38340'
     url: http://www.gutenberg.org/2009/agents/38340
 description: I. The Popes -- II. The Turners.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36544#Pope--His-Descent-and-Family-ConnectionsFacts-and-Conjectures
 gutenberg_issued: '2011-06-28'
 gutenberg_type: Text
 identifiers:
